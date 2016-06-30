@@ -1,0 +1,18 @@
+F:\WR\WR031\Practice\Socket\Socket\bin\Debug\Socket.exe.config
+F:\WR\WR031\Practice\Socket\Socket\bin\Debug\Socket.exe
+F:\WR\WR031\Practice\Socket\Socket\bin\Debug\Socket.pdb
+F:\WR\WR031\Practice\Socket\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+F:\WR\WR031\Practice\Socket\Socket\obj\Debug\Socket.exe
+F:\WR\WR031\Practice\Socket\Socket\obj\Debug\Socket.pdb
+D:\After Reverse\Socket\Socket\bin\Debug\Socket.exe.config
+D:\After Reverse\Socket\Socket\obj\Debug\Socket.exe
+D:\After Reverse\Socket\Socket\obj\Debug\Socket.pdb
+D:\After Reverse\Socket\Socket\bin\Debug\Socket.exe
+D:\After Reverse\Socket\Socket\bin\Debug\Socket.pdb
+D:\After Reverse\Socket\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+E:\Final_socket\Socket\Socket\bin\Debug\Socket.exe.config
+E:\Final_socket\Socket\Socket\obj\Debug\Socket.exe
+E:\Final_socket\Socket\Socket\obj\Debug\Socket.pdb
+E:\Final_socket\Socket\Socket\bin\Debug\Socket.exe
+E:\Final_socket\Socket\Socket\bin\Debug\Socket.pdb
+E:\Final_socket\Socket\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
